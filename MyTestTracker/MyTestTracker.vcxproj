@@ -133,7 +133,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="MyTestTracker.cpp" />
   </ItemGroup>
   <ItemGroup>
